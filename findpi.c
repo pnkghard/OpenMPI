@@ -1,7 +1,5 @@
 #include<stdio.h>
-#include<stdlib.h>
 #include<math.h>
-#include<sys/time.h>
 
 
 #define N 999999
@@ -25,4 +23,3 @@ int main(){
 	printf("\n Value of pi is = %0.9f\n\n", pi);
 	
 }
-
